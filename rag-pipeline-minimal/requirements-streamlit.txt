@@ -1,0 +1,6 @@
+numpy>=1.25,<3
+faiss-cpu>=1.10
+sentence-transformers>=3
+openai>=1.30
+streamlit>=1.40
+python-dotenv>=1.0
